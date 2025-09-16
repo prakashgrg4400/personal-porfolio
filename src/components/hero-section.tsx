@@ -22,11 +22,11 @@ export function HeroSection() {
     return (
         <section
             id="home"
-            className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8"
+            className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8  lg:mt-0 mt-20 "
         >
             <div className="max-w-7xl mx-auto">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-                    <div className="space-y-8">
+                    <div className="space-y-8 order-2 lg:order-none">
                         <div className="space-y-4">
                             <p className="text-accent text-sm font-medium tracking-wide uppercase">
                                 Hello, Welcome to my Portfolio!
@@ -68,7 +68,7 @@ export function HeroSection() {
                         </div>
                     </div>
 
-                    <div className="flex justify-center lg:justify-end">
+                    <div className="flex justify-center lg:justify-end order-1 lg:order-none">
                         <div className="relative">
                             <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-accent/20">
                                 <Image

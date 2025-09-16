@@ -76,9 +76,9 @@ export function ContactSection() {
                     </h2>
                     <div className="w-20 h-1 bg-accent mx-auto"></div>
                     <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
-                        Im always interested in new opportunities and
-                        collaborations. Feel free to reach out if youd like to
-                        discuss data analytics projects or potential roles.
+                        I am always interested in new opportunities and
+                        collaborations. Feel free to reach out if you would like
+                        to discuss projects or potential roles.
                     </p>
                 </div>
 
