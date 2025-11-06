@@ -12,7 +12,7 @@ const experiences = [
     {
         title: "React Native Developer",
         company: "Swoyef Labs Pvt. Ltd.",
-        period: "2024 - Present",
+        period: "2024 - 2025",
         description:
             " Developed cross-platform mobile applications using React Native, delivering smooth user experiences across iOS and Android. Built reusable components, integrated APIs, and optimized app performance for scalability.",
         skills: [
